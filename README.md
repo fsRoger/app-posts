@@ -1,4 +1,4 @@
-Link to deployed https://master--fantastic-basbousa-bf7035.netlify.app/
+Link to deploy https://master--fantastic-basbousa-bf7035.netlify.app/
 
 
 # Getting Started with Create React App
